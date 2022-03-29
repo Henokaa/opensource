@@ -4,10 +4,7 @@ This is a brief introduction to the accessibility concepts mentioned in wagtail.
 
 What is Web Accessibility?
 Web accessibility is making sure that the internet (from websites to tools and other platforms) can be accessed by everyone. And by ‘everyone’ we mean all individuals, including those who have cognitive or physical impairments or limitations.
-<img src="markdownmonstericon.png"
-     alt="Markdown Monster icon"
-     style="float: left; margin-right: 10px;"
-     href="https://i.imgur.com/LlYOyKu.png"/>
+
   
 ========================================
 
