@@ -36,5 +36,5 @@ First step
   * Reboot Windows.
   * Login to Windows and let Docker finish setting up.  This can take a few minutes depending on your machine.
   * You have now installed Docker on Windows 10 for local workstation development.
-* From this point on you can easily setup book brainz easily by going through the rest of the page in the documentation. 
-* https://bookbrainz-dev-docs.readthedocs.io/en/latest/docs/installation.html
+* From this point on you can easily setup book brainz locally by going through the rest of the page in the documentation. 
+https://bookbrainz-dev-docs.readthedocs.io/en/latest/docs/installation.html
