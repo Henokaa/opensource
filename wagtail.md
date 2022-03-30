@@ -4,7 +4,7 @@ This is a brief introduction to the accessibility concepts mentioned in wagtail.
 
 What is Web Accessibility?
 Web accessibility is making sure that the internet (from websites to tools and other platforms) can be accessed by everyone. And by ‘everyone’ we mean all individuals, including those who have cognitive or physical impairments or limitations.
-
+<img src="https://www.dreamhost.com/blog/wp-content/uploads/2016/08/DreamHost-Accessibility-Tips-750x498.jpg">
   
 ========================================
 
