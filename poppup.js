@@ -29,7 +29,7 @@ const Popup = () => {
       </div>
     )
   }
-  
+  /* Styles */
   .popup {
     border-radius: 16px;
     display: flex;
